@@ -1,0 +1,15 @@
+.buttonMode {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 5%;
+  color: white;
+  margin-top: 38px;
+  padding: 10px;
+  margin-right: 25px;
+}
+
+.text {
+  text-align: center;
+  font-weight: bold;
+}

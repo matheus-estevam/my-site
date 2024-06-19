@@ -1,0 +1,38 @@
+.title {
+  margin-top: 120px;
+  font-size: 35px;
+  color: #050e1f;
+  text-align: center;
+}
+
+.textDownload {
+  margin-top: 61px;
+  font-size: 19px;
+  color: #050e1f;
+  text-align: center;
+}
+
+.linkDownload {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: blue;
+  cursor: pointer;
+  gap: 8px;
+}
+
+.title.lightTheme {
+  color: #050e1f;
+}
+
+.title.darkTheme {
+  color: #dddad5;
+}
+
+.textDownload.lightTheme {
+  color: #050e1f;
+}
+
+.textDownload.darkTheme {
+  color: #dddad5;
+}

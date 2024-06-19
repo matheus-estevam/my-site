@@ -1,0 +1,40 @@
+.footerContainer {
+  background-color: #202020;
+  color: #fafdf6;
+  margin-top: 5%;
+  padding: 55px;
+  margin: 0;
+}
+
+.desc {
+  text-align: center;
+}
+
+.email {
+  text-align: center;
+}
+
+.icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+
+.icons a {
+  display: inline-block;
+  padding: 12px;
+}
+
+.showContacts {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttonShowContacts {
+  margin-top: 10px;
+  text-decoration: underline;
+  cursor: pointer;
+  color: #e3e3e4;
+}

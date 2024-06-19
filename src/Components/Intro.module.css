@@ -1,0 +1,35 @@
+.buttonsContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+}
+
+.button {
+  display: inline-block;
+  padding: 15px;
+  border-radius: 7px;
+  background-color: transparent;
+  cursor: pointer;
+  border: transparent;
+}
+
+.button:hover {
+  background-color: #dbd7d7;
+}
+
+.activeButton {
+  border: 3px solid #444;
+}
+
+button.lightTheme {
+  color: #444;
+}
+
+button.darkTheme {
+  color: #dbd7d7;
+}
+
+.darkTheme:hover {
+  color: #444;
+}

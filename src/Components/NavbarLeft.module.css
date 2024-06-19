@@ -1,0 +1,24 @@
+.fixedElements {
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 5%;
+  text-align: center;
+}
+
+.fixedElements a {
+  text-align: center;
+  margin-top: 8px;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.fixedElements li {
+  cursor: pointer;
+  padding: 20px;
+}

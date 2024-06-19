@@ -1,0 +1,17 @@
+.container {
+  max-width: 950px;
+  padding: 20px;
+  margin: 67px auto 67px auto;
+  background-color: #f7f8fa;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+}
+
+.container.lightTheme {
+  background-color: #f7f8fa;
+}
+
+.container.darkTheme {
+  background-color: #1c1e1f;
+  color: #f7f8fa;
+}

@@ -1,0 +1,31 @@
+.title {
+  margin-top: 120px;
+  font-size: 35px;
+  color: #050e1f;
+  text-align: center;
+}
+
+.portfolioContainer {
+  margin: 0 auto;
+  justify-items: center;
+  justify-content: center;
+  align-self: center;
+  display: grid;
+  gap: 7px;
+  grid-template-columns: 1fr 1fr;
+}
+
+.iconsContainer {
+  margin-top: 20px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+.title.lightTheme {
+  color: #050e1f;
+}
+
+.title.darkTheme {
+  color: #dddad5;
+}

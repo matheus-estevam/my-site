@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #444;
+  font-family: "LMSansQuot8-Regular", monospace;
+  font-weight: 400;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  display: block;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.content {
+  margin: 0 auto;
+  max-width: 650px;
+  display: none;
+}
+
+.content.active {
+  display: block;
+}
+
+.youtube {
+  display: none;
+}
+
+.youtube.ativo {
+  display: block;
+}
