@@ -7,7 +7,6 @@ import {
   faFileLines,
 } from "@fortawesome/free-solid-svg-icons";
 import styles from "./NavbarLeft.module.css";
-import { Link, NavLink } from "react-router-dom";
 
 const NavbarLeft = () => {
   return (

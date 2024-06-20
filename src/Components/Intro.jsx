@@ -42,7 +42,7 @@ const Intro = () => {
           onClick={viewContent}
           value="less"
         >
-          Less
+          Menos
         </button>
         <button
           className={`${styles.button} ${
@@ -51,7 +51,7 @@ const Intro = () => {
           onClick={viewContent}
           value="default"
         >
-          Default
+          Padrão
         </button>
         <button
           className={`${styles.button} ${
@@ -60,74 +60,149 @@ const Intro = () => {
           onClick={viewContent}
           value="more"
         >
-          More
+          Mais
         </button>
       </div>
       <div className="content" id="tldr">
-        <h3>TL:DR</h3>
+        <h3>Resumo Do Resumo</h3>
+        <p>Oi! Eu sou Matheus!</p>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum sint
-          cumque quasi, amet impedit tempore necessitatibus iste. Ratione
-          possimus perspiciatis sapiente, ex alias, ipsam sint beatae vel
-          repellat aperiam corrupti porro et molestiae nobis itaque recusandae
-          vitae atque! Reiciendis voluptatum molestiae autem consectetur
-          corporis libero itaque quo mollitia quod! Corrupti doloribus veniam
-          iusto soluta laborum saepe debitis reiciendis atque nihil eaque
-          ducimus quo ullam ipsum, laboriosam velit vitae sint, eius molestiae
-          unde, tempora hic ipsam? Cupiditate, beatae. Nostrum eos, id velit
-          nisi libero exercitationem, et fugiat assumenda mollitia debitis
-          deleniti, illum iusto. Officiis, ratione ex? Magni, impedit vel. Quam,
-          eaque.
+          Sou estudante de Ciência da Computação na Faculdade Nova Roma adoro
+          construir coisas novas! Tenho me destacado nos estudos no Ensino Médio
+          como aluno destaque e estou sempre em busca de novos desafios.
+        </p>
+        <p>
+          Embora ainda não tenha estagiado, estou ativamente procurando
+          oportunidades de estágio para ganhar experiência prática.Além de
+          desenvolver projetos pessoais e contribuir para código aberto. Estou
+          sempre empenhado em aprender e crescer na área de tecnologia!
         </p>
       </div>
 
       <div className="content" id="less">
-        <h3>Less</h3>
+        <h3>Menos</h3>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci
-          molestiae doloremque enim deleniti voluptatum necessitatibus, facilis
-          et quas, quasi magni obcaecati iusto ipsam ipsum amet autem labore
-          dignissimos accusantium dolorem perspiciatis non harum, alias vel a
-          asperiores? Qui amet tempora mollitia quos, facilis debitis nemo
-          praesentium, optio facere nostrum, eum totam magnam quasi laborum sint
-          repellendus quibusdam vero? Ipsum explicabo officiis culpa delectus
-          quasi cumque saepe voluptates accusantium voluptatem omnis iste, sequi
-          beatae quae dolor vero nostrum at amet eum dolores ut. Autem velit
-          eius, libero adipisci dolore harum accusantium ipsum, voluptate ad
-          recusandae vitae blanditiis? Harum nihil molestiae cum!
+          Ei! Eu sou o Matheus, desenvolvedor de software e estudante.Em Ciência
+          da Computação na Faculdade Nova Roma.
+        </p>
+        <p>
+          Sou um estudante apaixonado por TI e em busca de um estágio na área.
+          Tenho uma sólida base acadêmica e habilidades em HTML, CSS, React e
+          JavaScript.
+        </p>
+        <p>
+          Participei de projetos acadêmicos e pessoais, aplicando conhecimentos
+          teóricos na prática. Destaco minha capacidade analítica e proatividade
+          em resolver problemas e colaborar em equipe. Minhas experiências
+          incluem a criação e design de websites, planejamento e criação de
+          bancos de dados, desenvolvimento de aplicativos mobile,projetos em
+          Python e BI,Design e prototipação de um projeto IOT usando o
+          Tinkercard e o ThingSpeak, Conhecimento em IA e Machine Learning.
+          Tenho um forte desejo de aprender novas tecnologias e contribuir para
+          projetos inovadores. Estou determinado a integrar uma equipe dinâmica,
+          trazendo entusiasmo e comprometimento para o sucesso coletivo. Estou
+          aberto a oportunidades que me permitam crescer profissionalmente e
+          colaborar com colegas inspiradores.
         </p>
       </div>
       <div className="content" id="more">
-        <h3>More</h3>
+        <h3>Mais</h3>
         <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat,
-          asperiores magnam? In expedita laudantium magnam ratione alias minus
-          nemo incidunt, dignissimos architecto placeat corporis molestiae
-          labore vitae ullam laborum ut culpa eaque officiis, blanditiis sunt
-          fugit ex? Neque quod mollitia delectus ipsa? Dolore veritatis, tenetur
-          laudantium possimus unde debitis enim est illum, ea distinctio quod
-          itaque quaerat ex sint eum optio in saepe labore sunt odit? Dolore,
-          iusto! Ducimus sint laudantium consectetur. Velit facere culpa
-          excepturi ad, quae distinctio iure incidunt. Odio alias laboriosam
-          unde quo repudiandae corporis laborum quaerat asperiores minima quis
-          in nam maxime recusandae iure, provident a?
+          Ei! Eu sou o Matheus, desenvolvedor de software e estudante.Em Ciência
+          da Computação na Faculdade Nova Roma.
+        </p>
+        <p>
+          Sou um estudante apaixonado por TI e em busca de um estágio na área.
+          Tenho uma sólida base acadêmica e habilidades em HTML, CSS, React e
+          JavaScript.
+        </p>
+        <p>
+          Participei de projetos acadêmicos e pessoais, aplicando conhecimentos
+          teóricos na prática. Destaco minha capacidade analítica e proatividade
+          em resolver problemas e colaborar em equipe. Minhas experiências
+          incluem a criação e design de websites, planejamento e criação de
+          bancos de dados, desenvolvimento de aplicativos mobile,projetos em
+          Python e BI,Design e prototipação de um projeto IOT usando o
+          Tinkercard e o ThingSpeak, Conhecimento em IA e Machine Learning.
+          Tenho um forte desejo de aprender novas tecnologias e contribuir para
+          projetos inovadores. Estou determinado a integrar uma equipe dinâmica,
+          trazendo entusiasmo e comprometimento para o sucesso coletivo. Estou
+          aberto a oportunidades que me permitam crescer profissionalmente e
+          colaborar com colegas inspiradores.
+        </p>
+        <p>
+          Além disso, possuo um forte desejo de aprender e me adaptar a novas
+          tecnologias.
+        </p>
+        <p>
+          Estou determinado a não apenas acompanhar, mas dar o meu melhor.Meu
+          objetivo é integrar uma equipe dinâmica na área de TI, contribuindo
+          com meu entusiasmo e comprometimento.
+        </p>
+
+        <p>
+          Estou certo de que minhas experiência, habilidades técnicas e atitude
+          positiva me tornarão um membro valioso em um ambiente de estágio
+          desafiador. Estou aberto a oportunidades que me permitam crescer
+          profissionalmente, colaborar com colegas inspiradores e, acima de
+          tudo, contribuir para o sucesso da equipe.
+        </p>
+
+        <p>
+          Fora do desenvolvimento de software, adoro jogar Futebol, Games e
+          aprender idiomas. Acho reconfortante ter hobbies fora da ciência da
+          computação, pois me ajuda a focar no panorama geral e também é muito
+          legal (não posso fazer truques nem nada ainda, mas atualizarei esta
+          página quando puder).
         </p>
       </div>
 
       <div className="content" id="default">
-        <h3>Default</h3>
+        <h3>Padrão</h3>
         <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat,
-          asperiores magnam? In expedita laudantium magnam ratione alias minus
-          nemo incidunt, dignissimos architecto placeat corporis molestiae
-          labore vitae ullam laborum ut culpa eaque officiis, blanditiis sunt
-          fugit ex? Neque quod mollitia delectus ipsa? Dolore veritatis, tenetur
-          laudantium possimus unde debitis enim est illum, ea distinctio quod
-          itaque quaerat ex sint eum optio in saepe labore sunt odit? Dolore,
-          iusto! Ducimus sint laudantium consectetur. Velit facere culpa
-          excepturi ad, quae distinctio iure incidunt. Odio alias laboriosam
-          unde quo repudiandae corporis laborum quaerat asperiores minima quis
-          in nam maxime recusandae iure, provident a?
+          Ei! Eu sou o Matheus, desenvolvedor de software e estudante.Em Ciência
+          da Computação na Faculdade Nova Roma.
+        </p>
+        <p>
+          Sou um estudante apaixonado por TI e em busca de um estágio na área.
+          Tenho uma sólida base acadêmica e habilidades em HTML, CSS, React e
+          JavaScript.
+        </p>
+        <p>
+          Participei de projetos acadêmicos e pessoais, aplicando conhecimentos
+          teóricos na prática. Destaco minha capacidade analítica e proatividade
+          em resolver problemas e colaborar em equipe. Minhas experiências
+          incluem a criação e design de websites, planejamento e criação de
+          bancos de dados, desenvolvimento de aplicativos mobile,projetos em
+          Python e BI,Design e prototipação de um projeto IOT usando o
+          Tinkercard e o ThingSpeak, Conhecimento em IA e Machine Learning.
+          Tenho um forte desejo de aprender novas tecnologias e contribuir para
+          projetos inovadores. Estou determinado a integrar uma equipe dinâmica,
+          trazendo entusiasmo e comprometimento para o sucesso coletivo. Estou
+          aberto a oportunidades que me permitam crescer profissionalmente e
+          colaborar com colegas inspiradores.
+        </p>
+        <p>
+          Além disso, possuo um forte desejo de aprender e me adaptar a novas
+          tecnologias.
+        </p>
+        <p>
+          Estou determinado a não apenas acompanhar, mas dar o meu melhor.Meu
+          objetivo é integrar uma equipe dinâmica na área de TI, contribuindo
+          com meu entusiasmo e comprometimento.
+        </p>
+
+        <p>
+          Estou certo de que minhas experiência, habilidades técnicas e atitude
+          positiva me tornarão um membro valioso em um ambiente de estágio
+          desafiador. Estou aberto a oportunidades que me permitam crescer
+          profissionalmente, colaborar com colegas inspiradores e, acima de
+          tudo, contribuir para o sucesso da equipe.
+        </p>
+
+        <p>
+          Fora do desenvolvimento de software, adoro Futebol, Games , Música e
+          aprender idiomas.
         </p>
       </div>
     </section>
